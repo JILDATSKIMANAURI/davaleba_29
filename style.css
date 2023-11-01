@@ -1,0 +1,134 @@
+@font-face {
+  font-family: Work Sans;
+  src: url("./fonts/WorkSans-VariableFont_wght.ttf");
+  font-family: Space Mono;
+  src: url("./fonts/SpaceMono-Regular.ttf");
+}
+*{
+  box-sizing: border-box;
+  border: 0;
+  font-family: Work Sans;
+}
+.btn1{
+  width: 152px;
+  height: 60px;
+  padding: 0px, 30px, 0px, 30px;
+  border-radius: 20px;
+  gap: 12px;
+  background: #A259FF;
+  color: #FFF;
+}
+h1{
+font-family: Work Sans;
+font-size: 38px;
+font-weight: 600;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF !important;
+
+}
+p{
+  color: #858584 !important;
+  font-family: Work Sans;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}  
+h4{
+  color: #858584 !important;
+  font-family: Space Mono;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.btn2{
+  display: flex;
+  height: 46px;
+  padding: 0px 30px;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  background-color: #3B3B3B;
+  border-radius: 20px;
+  color: #FFF;
+}  
+a{
+  color: #FFF !important;
+  font-family: Work Sans;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none !important;
+}
+.container1{
+  width: 295px;
+  height: 237px;
+  padding: 30px;
+  border-radius: 20px;
+  gap: 30px;
+  background: #3B3B3B;
+
+}
+.btn3{
+  width: 235px;
+  height: 60px;
+  padding: 0px, 50px, 0px, 50px;
+  border-radius: 20px;
+  gap: 12px;
+  background: #A259FF;
+  color: #FFF;
+}
+.btn4{
+  width: 267px;
+  height: 60px;
+  padding: 0px, 50px, 0px, 50px;
+  border-radius: 20px;
+  border: 2px solid #A259FF !important;
+  gap: 12px;
+  background-color: transparent;
+  border-color: #A259FF;
+  color: #FFF;
+}
+.ntf{
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  border: none;
+  background: #858584!important;
+}
+.container3{
+  display: flex;
+  padding: 60px;
+  align-items: center;
+  gap: 80px;
+  background: #3B3B3B;
+}
+input{
+  display: flex;
+  height: 60px;
+  width: 100%;
+  padding: 16px 0px 16px 20px;
+  gap: 12px;
+  border-radius: 20px;
+  background: #FFF !important;
+}
+.btn-3{
+  display: flex;
+  height: 60px;
+  padding: 0px 50px;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 12px;
+  border-radius: 20px;
+  background: #A259FF;
+  color: #FFF;
+  position: absolute;
+  right: 0;
+}
+.btn-4{
+  height: 60px;
+  border-radius: 20px;
+  background: #A259FF;
+  color: #FFF;
+}
