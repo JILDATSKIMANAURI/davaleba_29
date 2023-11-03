@@ -40,7 +40,7 @@ h4{
   font-family: Space Mono;
   font-size: 22px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 .btn2{
   display: flex;
@@ -68,7 +68,6 @@ a{
   border-radius: 20px;
   gap: 30px;
   background: #3B3B3B;
-
 }
 .btn3{
   width: 235px;
@@ -95,7 +94,7 @@ a{
   flex-direction: column;
   border-radius: 20px;
   border: none;
-  background: #858584!important;
+  background: #8585843f!important;
 }
 .container3{
   display: flex;
